@@ -1,0 +1,10 @@
+C:\Users\GDC2\Desktop\github\KYH\KYH\bin\Debug\KYH.exe.config
+C:\Users\GDC2\Desktop\github\KYH\KYH\bin\Debug\KYH.exe
+C:\Users\GDC2\Desktop\github\KYH\KYH\bin\Debug\KYH.pdb
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.csprojAssemblyReference.cache
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.Form1.resources
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.Properties.Resources.resources
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.csproj.GenerateResource.cache
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.csproj.CoreCompileInputs.cache
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.exe
+C:\Users\GDC2\Desktop\github\KYH\KYH\obj\Debug\KYH.pdb
