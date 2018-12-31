@@ -1,0 +1,14 @@
+C:\Users\GDC2\Desktop\Webapi\bin\Debug\netcoreapp2.1\Webapi.deps.json
+C:\Users\GDC2\Desktop\Webapi\bin\Debug\netcoreapp2.1\Webapi.runtimeconfig.json
+C:\Users\GDC2\Desktop\Webapi\bin\Debug\netcoreapp2.1\Webapi.runtimeconfig.dev.json
+C:\Users\GDC2\Desktop\Webapi\bin\Debug\netcoreapp2.1\Webapi.dll
+C:\Users\GDC2\Desktop\Webapi\bin\Debug\netcoreapp2.1\Webapi.pdb
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.csprojAssemblyReference.cache
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorAssemblyInfo.cache
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorAssemblyInfo.cs
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.AssemblyInfoInputs.cache
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.AssemblyInfo.cs
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorTargetAssemblyInfo.cache
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.dll
+C:\Users\GDC2\Desktop\Webapi\obj\Debug\netcoreapp2.1\Webapi.pdb

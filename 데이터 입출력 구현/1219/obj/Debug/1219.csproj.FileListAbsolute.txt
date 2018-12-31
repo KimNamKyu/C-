@@ -1,0 +1,16 @@
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\1219.exe.config
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\1219.exe
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\1219.pdb
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.csprojAssemblyReference.cache
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\_1219.Form1.resources
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\_1219.Form2.resources
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\_1219.Properties.Resources.resources
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.csproj.GenerateResource.cache
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.csproj.CoreCompileInputs.cache
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.exe
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.pdb
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\1219.csproj.CopyComplete
+C:\Users\GDC2\Desktop\github\smartfactory-\1219\obj\Debug\_1219.Form3.resources
