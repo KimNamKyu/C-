@@ -10,7 +10,7 @@
 > * [통합 구현](https://github.com/KimNamKyu/mojavePos)
 > * [제품소프트웨어 패키징](https://github.com/KimNamKyu/C-/blob/master/%EC%A0%9C%ED%92%88%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95.zip)
 > * [정보시스템 이행]()
-> * [애플리케이션 테스트 수행]()
+> * [애플리케이션 테스트 수행](https://github.com/KimNamKyu/C-/tree/master/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%88%98%ED%96%89/UnitTestProject)
 > * [애플리케이션 테스트 관리]()
 > * [애플리케이션 배포]()
 > * [프로젝트]()
